@@ -19,3 +19,4 @@ Thumbs.db
 # Data
 dataset/*.csv
 dataset/*.xlsx
+dataset/processed/*.csv
